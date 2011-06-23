@@ -1,5 +1,5 @@
 var
-	httpUtils = require('../index'),
+	httpUtils = require('../../piton-http-utils'),
 	assert = require('assert');
 
 module.exports = {
