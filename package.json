@@ -12,7 +12,7 @@
     "expresso": "0.7.2"
   },
   "keywords": ["http"],
-  "repository": "git://github.com/PabloSerbo/piton-http",
+  "repository": "git://github.com/PabloSerbo/piton-http-utils",
   "main": "index",
   "scripts": {
     "test": "make test",
