@@ -1,4 +1,4 @@
-# piton-http-utils - HTTP support functions
+# piton-http-utils - HTTP support functions for nodejs
 
 A number functions that are useful when working with HTTP responses and requests
 
